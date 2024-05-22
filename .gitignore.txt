@@ -1,3 +1,11 @@
-# Ignore compiled binaries
-*.exe
+# Ignore all log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore temp directory
+temp/
+
+# Ignore specific file
 password.txt
